@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Beand and Brew</title>
+<h1>Beans and Brew</h1>
+<nav class="Navbar">
+    <ul>
+        <li><a href="">Home</a>
+        <li><a href="">About Us</a></li>
+        <li><a href="">Contact</a></li>
+        <li><a href="">Menu</a></li>
+    </ul>
+</nav>
+<style>
+    h1 {text-align: center;}
+
+
+</style>
+
+<body>
+<img src="Coffee Picture/Coffee.jpg" height="354" width="460">
+
+
+</body>
+</head>  
+</html>

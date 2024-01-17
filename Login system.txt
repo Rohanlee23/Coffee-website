@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>beand and Brew</title> 
+        <h1>Welcome to Beans and Brew</h1>
+        <br>
+</head>
+<body>
+     <form action="index.html" method="POST">
+        <div>
+            <label for="Username"> Enter your Username:</label>
+            <input type="text" id="Username" name="Username" required>
+        </div>
+<br>
+    <div>
+        <label for="Password"> Enter your Password:</label>
+        <input type="text" id="Password" name="Password" required>
+    </div>
+    
+<br>
+    <div>
+        <input type="Submit">
+    </div>
+     
+    </form>
+
+</body>
+</html>
